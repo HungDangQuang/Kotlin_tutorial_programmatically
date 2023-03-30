@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">App Theme Practice</string>
-    <string name="primary_color">primary color</string>
-    <string name="button">button</string>
-    <string name="secondary_color">secondary color</string>
-    <string name="content_description">email icon</string>
-</resources>
